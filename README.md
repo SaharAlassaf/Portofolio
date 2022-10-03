@@ -1,2 +1,2 @@
 # Portofolio
-[Demo](https://saharhalassaf.herokuapp.com/)
+[Go to my portofolio](https://saharhalassaf.herokuapp.com/)
